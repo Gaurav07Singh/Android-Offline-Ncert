@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NCERT-10(OFFLINE)</string>
+    <string-array name="Stories_name">
+        <item>Index</item>
+        <item>Ch-1 Real Numbers</item>
+        <item>Ch-2 Polynomials</item>
+        <item>Ch-3 Pair of Linear Equations in Two Variables</item>
+        <item>Ch-4 Quadratic Equations</item>
+        <item>Ch-5 Arithmetic Progressions</item>
+        <item>Ch-6 Triangles</item>
+        <item>Ch-7 Coordinate Geometry</item>
+        <item>Ch-8 Introduction to Trigonometry</item>
+        <item>Ch-9 Applications of Trigonometry</item>
+        <item>Ch-10 Circles</item>
+        <item>Ch-11 Constructions</item>
+        <item>Ch-12 Areas Related to Circles </item>
+        <item>Ch-13 Surface Areas and Volumes</item>
+        <item>Ch-14 Statistics</item>
+        <item>Ch-15 Probability</item>
+        <item>Answers</item>
+    </string-array>
+</resources>
